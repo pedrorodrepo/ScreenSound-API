@@ -1,0 +1,14 @@
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\bin\Debug\net7.0\ScreenSound-API.exe
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\bin\Debug\net7.0\ScreenSound-API.deps.json
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\bin\Debug\net7.0\ScreenSound-API.runtimeconfig.json
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\bin\Debug\net7.0\ScreenSound-API.dll
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\bin\Debug\net7.0\ScreenSound-API.pdb
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.AssemblyInfoInputs.cache
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.AssemblyInfo.cs
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.csproj.CoreCompileInputs.cache
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.dll
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\refint\ScreenSound-API.dll
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.pdb
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ScreenSound-API.genruntimeconfig.cache
+E:\Estudos\Csharp\ScreenSound-API\ScreenSound-API\obj\Debug\net7.0\ref\ScreenSound-API.dll
